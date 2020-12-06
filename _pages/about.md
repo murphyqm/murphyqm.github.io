@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year PhD student at the University of Leeds, investigating the origin of pallasite meteorites through both analytical geochemistry of meteorite samples and numerical modelling of the pallasite parent body/bodies. 
+
+I'm a third year PhD student at the University of Leeds, investigating the origin of pallasite meteorites through both analytical geochemistry of meteorite samples and numerical modelling of the pallasite parent body/bodies.
+{: .notice}
 
 I'm a member of a number of research groups within the [Institute of Geophysics and Tectonics](https://environment.leeds.ac.uk/institute-geophysics-tectonics): [Deep Earth](https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/deep-earth), [Rocks, Melts, Fluids](https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/rocks-melts-fluids-1), and last but not least, [Planetary Exploration](https://environment.leeds.ac.uk/institute-applied-geoscience/doc/planetary-exploration-1), which I help to organise. While the Covid-19 pandemic has changed how our research groups interact, we've continued to meet online to discuss new research, present novel papers, and deliver seminars on different topics in planetary science.
 
@@ -19,6 +21,4 @@ Over the past year my focus has primarily been on using numerical modelling to i
 
 We are currently preparing the code used in this modelling project to be released as a Python package so that our findings can be easily incorporated into future models of meteorite parent bodies.
 
-When not programming in Python, I can be found using the microprobe or one of the SEMs in [LEMAS](https://www.rms.org.uk/network-collaborate/facilities-database/facilities-database-submission-form.html?slug=lemas) to investigate pallasite meteorite samples.
-
-This site is based on the fantastic [academicpages](https://academicpages.github.io/markdown/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) theme, with a touch more pink added in.
+When not programming in Python, I can be found using the microprobe or SEM in [LEMAS](https://www.rms.org.uk/network-collaborate/facilities-database/facilities-database-submission-form.html?slug=lemas) to investigate pallasite meteorite samples.
