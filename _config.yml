@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Maeve Murphy Quinlan"
-  avatar           : "profile.png"
-  bio              : "PhD student at the University of Leeds, interested in all things meteorite, planetesimal and early Solar System related."
+  avatar           : "avatar.jpg"
+  bio              : "PhD student at the University of Leeds. Interested in all things meteorite, planetesimal and early Solar System related."
   location         : "University of Leeds"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
