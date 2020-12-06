@@ -47,7 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #B39Bc8;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
@@ -91,10 +91,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : #e64398;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #7c216b;
-$masthead-link-color-hover  : mix(#000, #7c216b, 25%);
+$link-color-hover           : mix(#000, $e64398, 25%);
+$link-color-visited         : mix(#fff, $e64398, 25%);
+$masthead-link-color        : #A1c3d1;
+$masthead-link-color-hover  : mix(#000, #A1c3d1, 25%);
 
 
 /*
