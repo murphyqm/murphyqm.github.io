@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I'm a third year PhD student at the University of Leeds, investigating the origin of pallasite meteorites through both analytical geochemistry of meteorite samples and numerical modelling of the pallasite parent body/bodies.
-{: .notice}
 
 I'm a member of a number of research groups within the [Institute of Geophysics and Tectonics](https://environment.leeds.ac.uk/institute-geophysics-tectonics): [Deep Earth](https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/deep-earth), [Rocks, Melts, Fluids](https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/rocks-melts-fluids-1), and last but not least, [Planetary Exploration](https://environment.leeds.ac.uk/institute-applied-geoscience/doc/planetary-exploration-1), which I help to organise. While the Covid-19 pandemic has changed how our research groups interact, we've continued to meet online to discuss new research, present novel papers, and deliver seminars on different topics in planetary science.
 
