@@ -18,6 +18,6 @@ My recent research interests include investigating the temperature-dependent nat
 
 Over the past year my focus has primarily been on using numerical modelling to investigate the thermal evolution of planetesimals, which has allowed me to continue working despite pandemic-related laboratory closures. We currently have a [paper in review](https://www.essoar.org/doi/abs/10.1002/essoar.10504913.1) that models the conductive cooling of a planetesimal with temperature-dependent conductivity, heat capacity and density, and we find that approximating these properties as constant significantly alters the thermal evolution of the planetesimal and can lead to different interpretations of meteorite genesis.
 
-We are currently preparing the code used in this modelling project to be released as a Python package so that our findings can be easily incorporated into future models of meteorite parent bodies.
+We are currently preparing the code used in this modelling project to be released as a Python package so that our findings can be easily incorporated into future models of meteorite parent bodies. Find the initial release [here](https://github.com/murphyqm/pytesimal). [![DOI](https://zenodo.org/badge/292811671.svg)](https://zenodo.org/badge/latestdoi/292811671)
 
 When not programming in Python, I can be found using the microprobe or SEM in [LEMAS](https://www.rms.org.uk/network-collaborate/facilities-database/facilities-database-submission-form.html?slug=lemas) to investigate pallasite meteorite samples.
