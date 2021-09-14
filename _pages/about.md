@@ -8,18 +8,51 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student at the University of Leeds, investigating the origin of pallasite meteorites through both analytical geochemistry of meteorite samples and numerical modelling of the pallasite parent body/bodies.
+I am a final year NERC DTP PhD student in the Institute of Geophysics
+and Tectonics, University of Leeds, researching the origin of pallasite
+meteorites and the nature of their parent body(/ies) using an
+interdisciplinary approach involving multi-scale modelling of thermal
+processes and analysis of meteorite samples. Pallasite meteorites
+comprise a mixture of olivine and Fe-Ni metal (and various minor
+phases), which have historically been explained as relict core-mantle boundary samples
+from disrupted planetesimals. While this origin is under debate with
+many alternative hypotheses suggested, these samples do still represent
+a natural laboratory to study the behaviour of co-existing mantle-like
+and core-like material. In order to better understand the environment
+and context of formation of these meteorites, I have taken a multi-scale
+approach: first, looking at the bigger picture and [modelling the
+thermal evolution of the pallasite parent
+body](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726);
+then, at the meso scale, investigating the processes in the region of
+metal and olivine mixing; and finally, integrating micro-scale evidence
+from samples (through SEM, EPMA and EBSD analysis) to model outputs to
+constrain the parameter space and test different formation hypotheses.
+
+I'm interested in open science, reproducible modelling and developing
+open-source software. The source-code for our recently published study
+[*The Conductive Cooling of Planetesimals With Temperature-Dependent
+Properties*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726)
+is available on [GitHub](https://github.com/murphyqm/pytesimal). We've
+also further developed this code to make it more modular and useful and
+have published it as a Python package, available on the [Python Package
+Index](https://pypi.org/project/pytesimal/) with [full documentation and
+examples](https://pytesimal.readthedocs.io/en/latest/) available to make
+it easier to use.
+
+I've worked extensively as a module assistant on a variety of courses,
+including maths and geophysics tutorials, geology practical sessions,
+and fieldwork, at both undergraduate and masters level. I also have
+experience designing and facilitating a range of planetary science
+themed outreach sessions, aimed at both the general public and specific
+school groups, in person and online. I've developed downloadable
+teaching materials for Space Hub Yorkshire (available
+[here](https://spacehubyorkshire.org/skills-for-schools/) under
+"Planetary Systems") and won an award for developing an [outreach
+poster](https://www.panorama.researchposter.co.uk/2020/10/09/murphy-quinlan-maeve-peek-inside-a-planetesimal/)
+as part of a NERC Panorama online conference. I've also written a [blog post](https://blogs.egu.eu/divisions/gd/2020/10/07/a-love-letter-to-science-fiction/) for the EGU Geodynamics blog.
 
 I'm a member of a number of research groups within the [Institute of Geophysics and Tectonics](https://environment.leeds.ac.uk/institute-geophysics-tectonics): [Deep Earth](https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/deep-earth), [Rocks, Melts, Fluids](https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/rocks-melts-fluids-1), and last but not least, [Planetary Exploration](https://environment.leeds.ac.uk/institute-applied-geoscience/doc/planetary-exploration-1), which I help to organise. While the Covid-19 pandemic has changed how our research groups interact, we've continued to meet online to discuss new research, present novel papers, and deliver seminars on different topics in planetary science.
 
-My recent research interests include investigating the temperature-dependent nature of properties such as conductivity, heat capacity and density in models of conductively cooling planetesimals. Our preprint discussing this work can be found [here](https://www.essoar.org/doi/abs/10.1002/essoar.10504913.1). If you have any comments, suggestions or would like to chat about our work, please [email me](mailto:eememq@leeds.ac.uk).
-
-I also enjoy [drawing](https://www.panorama.researchposter.co.uk/2020/10/09/murphy-quinlan-maeve-peek-inside-a-planetesimal/) and [writing](https://blogs.egu.eu/divisions/gd/2020/10/07/a-love-letter-to-science-fiction/) about space and science related stuff.
-
-## Research interests and techniques
-
-Over the past year my focus has primarily been on using numerical modelling to investigate the thermal evolution of planetesimals, which has allowed me to continue working despite pandemic-related laboratory closures. We currently have a [paper in review](https://www.essoar.org/doi/abs/10.1002/essoar.10504913.2) that models the conductive cooling of a planetesimal with temperature-dependent conductivity, heat capacity and density, and we find that approximating these properties as constant significantly alters the thermal evolution of the planetesimal and can lead to different interpretations of meteorite genesis.
-
-We are currently preparing the code used in this modelling project to be released as a Python package so that our findings can be easily incorporated into future models of meteorite parent bodies. Find the initial release [here](https://github.com/murphyqm/pytesimal). [![DOI](https://zenodo.org/badge/292811671.svg)](https://zenodo.org/badge/latestdoi/292811671)
-
-When not programming in Python, I can be found using the microprobe or SEM in [LEMAS](https://www.rms.org.uk/network-collaborate/facilities-database/facilities-database-submission-form.html?slug=lemas) to investigate pallasite meteorite samples.
+[pytesimal website](https://murphyqm.github.io/pytesimal/) \| [email me](mailto:eememq@leeds.ac.uk) \| [github
+profile](https://github.com/murphyqm) \| [ORCID
+profile](https://orcid.org/0000-0003-2958-1008)
