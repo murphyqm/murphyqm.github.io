@@ -47,3 +47,8 @@ year = {2021}
 }
 ```
 
+## Related
+
+- Data availability and Open Research: we used Pytesimal version 1.0.0, written in Python 3, archived [here](https://doi.org/10.5281/zenodo.4321772).
+- Reproduce the results from the paper in a hosted Jupyter Notebook [here](https://mybinder.org/v2/gh/murphyqm/pytesimal/master?filepath=example-notebooks).
+
