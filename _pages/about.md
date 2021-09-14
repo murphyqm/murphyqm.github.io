@@ -55,4 +55,4 @@ I'm a member of a number of research groups within the [Institute of Geophysics 
 
 [pytesimal website](https://murphyqm.github.io/pytesimal/) \| [email me](mailto:eememq@leeds.ac.uk) \| [github
 profile](https://github.com/murphyqm) \| [ORCID
-profile](https://orcid.org/0000-0003-2958-1008)
+profile](https://orcid.org/0000-0003-2958-1008) \| [departmental page](https://environment.leeds.ac.uk/pgr/2211/maeve-murphy-quinlan)
