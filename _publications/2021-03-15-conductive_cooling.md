@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-03-15-conductive_cooling
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-03-15
-venue: 'The Conductive Cooling of Planetesimals With Temperature-Dependent Properties'
+venue: 'Journal of Geophysical Research: Planets'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
