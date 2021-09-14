@@ -5,7 +5,7 @@ permalink: /publication/2021-03-15-conductive_cooling
 excerpt: 'Temperature-dependent properties change the modelled thermal evolution of meteorite parent bodies.'
 date: 2021-03-15
 venue: 'Journal of Geophysical Research: Planets'
-paperurl: 'https://murphyqm.github.io/files/2020JE006726_conductive_cooling.pdf'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726'
 citation: 'Murphy Quinlan, M., Walker, A. M., Davies, C. J., Mound, J. E., Müller, T., & Harvey, J. (2021). &quot;The conductive cooling of planetesimals with temperature-dependent properties.&quot; <i>Journal of Geophysical Research: Planets</i>. 126(4).'
 ---
 
