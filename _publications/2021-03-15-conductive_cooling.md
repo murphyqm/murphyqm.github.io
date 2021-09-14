@@ -1,7 +1,7 @@
 ---
 title: "The conductive cooling of planetesimals with temperature-dependent properties"
 collection: publications
-permalink: /publication/conductive_cooling
+permalink: /publication/2021-03-15-conductive_cooling
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-03-15
 venue: 'The Conductive Cooling of Planetesimals With Temperature-Dependent Properties'
