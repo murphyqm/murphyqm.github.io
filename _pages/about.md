@@ -11,14 +11,20 @@ redirect_from:
 I am a final year NERC DTP PhD student in the Institute of Geophysics
 and Tectonics, University of Leeds, researching the origin of pallasite
 meteorites and the nature of their parent body(/ies) using an
-interdisciplinary approach involving multi-scale modelling of thermal
-processes and analysis of meteorite samples. Pallasite meteorites
+interdisciplinary approach involving **multi-scale modelling of thermal
+processes and analysis of meteorite samples.**
+
+## My PhD project
+
+>Pallasite meteorites
 comprise a mixture of olivine and Fe-Ni metal (and various minor
 phases), which have historically been explained as relict core-mantle boundary samples
 from disrupted planetesimals. While this origin is under debate with
 many alternative hypotheses suggested, these samples do still represent
 a natural laboratory to study the behaviour of co-existing mantle-like
-and core-like material. In order to better understand the environment
+and core-like material. 
+
+In order to better understand the environment
 and context of formation of these meteorites, I have taken a multi-scale
 approach: first, looking at the bigger picture and [modelling the
 thermal evolution of the pallasite parent
@@ -38,6 +44,8 @@ have published it as a Python package, available on the [Python Package
 Index](https://pypi.org/project/pytesimal/) with [full documentation and
 examples](https://pytesimal.readthedocs.io/en/latest/) available to make
 it easier to use.
+
+## Other experience and responsibilities
 
 I've worked extensively as a module assistant on a variety of courses,
 including maths and geophysics tutorials, geology practical sessions,
