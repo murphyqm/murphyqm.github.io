@@ -5,11 +5,11 @@ permalink: /publication/2021-03-15-conductive_cooling
 excerpt: 'Temperature-dependent properties change the modelled thermal evolution of meteorite parent bodies.'
 date: 2021-03-15
 venue: 'Journal of Geophysical Research: Planets'
-paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726'
+paperurl: 'https://murphyqm.github.io/files/2020JE006726_conductive_cooling.pdf'
 citation: 'Murphy Quinlan, M., Walker, A. M., Davies, C. J., Mound, J. E., Müller, T., & Harvey, J. (2021). &quot;The conductive cooling of planetesimals with temperature-dependent properties.&quot; <i>Journal of Geophysical Research: Planets</i>. 126(4).'
 ---
 
-[Download the Open Access paper here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726)
+Download the Open Access paper [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726) via the publishers website, or access the pdf directly [here](https://murphyqm.github.io/files/2020JE006726_conductive_cooling.pdf).
 
 ## Plain language summary
 
@@ -51,4 +51,5 @@ year = {2021}
 
 - Data availability and Open Research: we used Pytesimal version 1.0.0, written in Python 3, archived [here](https://doi.org/10.5281/zenodo.4321772).
 - Reproduce the results from the paper in a hosted Jupyter Notebook [here](https://mybinder.org/v2/gh/murphyqm/pytesimal/master?filepath=example-notebooks).
+- If you have any questions or comments, please [email me](mailto:eememq@leeds.ac.uk)!
 
