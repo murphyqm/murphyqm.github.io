@@ -13,4 +13,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 *[Download paper here](http://academicpages.github.io/files/paper1.pdf)*
 
-*Recommended citation:* Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:  Murphy Quinlan, M., Walker, A. M., Davies, C. J., Mound, J. E., Müller, T., & Harvey, J. (2021). The conductive cooling of planetesimals with temperature-dependent properties. *Journal of Geophysical Research: Planets,* 126, e2020JE006726. https://doi.org/10.1029/2020JE006726 
