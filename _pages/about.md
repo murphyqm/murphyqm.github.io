@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year NERC DTP PhD student in the Institute of Geophysics
-and Tectonics, University of Leeds, researching the origin of pallasite
+I am a research software engineer at the University of Leeds, in the [Research
+Computing Team](https://arc.leeds.ac.uk/about/team/). I just recently submitted my
+NERC-funded PhD in the Institute of Geophysics
+and Tectonics, University of Leeds, which focused on investigating the origin of pallasite
 meteorites and the nature of their parent body(/ies) using an
 interdisciplinary approach involving **multi-scale modelling of thermal
 processes and analysis of meteorite samples.**
 
-## My PhD project
+## My recent research
 
 >Pallasite meteorites
 comprise a mixture of olivine and Fe-Ni metal (and various minor
@@ -29,9 +31,9 @@ and context of formation of these meteorites, I have taken a multi-scale
 approach: first, looking at the bigger picture and [modelling the
 thermal evolution of the pallasite parent
 body](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006726);
-then, at the meso scale, investigating the processes in the region of
-metal and olivine mixing; and finally, integrating micro-scale evidence
-from samples (through SEM, EPMA and EBSD analysis) to model outputs to
+then, at the meso scale, [investigating the processes in the region of
+metal and olivine mixing](https://www.sciencedirect.com/science/article/pii/S0012821X23002972#fg0040); and finally, integrating micro-scale evidence
+from samples (through SEM, EPMA and EBSD analysis; not yet published) to model outputs to
 constrain the parameter space and test different formation hypotheses.
 
 I'm interested in open science, reproducible modelling and developing
@@ -43,7 +45,7 @@ also further developed this code to make it more modular and useful and
 have published it as a Python package, available on the [Python Package
 Index](https://pypi.org/project/pytesimal/) with [full documentation and
 examples](https://pytesimal.readthedocs.io/en/latest/) available to make
-it easier to use.
+it easier to use. The source code for [*Reconciling fast and slow cooling during planetary formation as recorded in the main group pallasites*](https://doi.org/10.1016/j.epsl.2023.118284) is also available: [PytesiMINT](https://github.com/murphyqm/pytesimint).
 
 ## Other experience and responsibilities
 
