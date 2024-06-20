@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -89,7 +89,7 @@ author:
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "earmmu@leeds.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.essoar.org/doi/abs/10.1002/essoar.10504913.1"
+  uri              : "https://github.com/murphyqm"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -185,7 +185,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
